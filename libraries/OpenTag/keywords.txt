@@ -1,0 +1,43 @@
+#######################################
+# Syntax Coloring Map For Keyboard
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+opentag	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Init	KEYWORD2
+SendTagIR	KEYWORD2
+SendShot	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+TEAM_RED	LITERAL1
+TEAM_BLUE	LITERAL1
+TEAM_YELLOW	LITERAL1
+TEAM_GREEN	LITERAL1
+
+DMG_1	LITERAL1
+DMG_2	LITERAL1
+DMG_4	LITERAL1
+DMG_5	LITERAL1
+DMG_7	LITERAL1
+DMG_10	LITERAL1
+DMG_15	LITERAL1
+DMG_17	LITERAL1
+DMG_20	LITERAL1
+DMG_25	LITERAL1
+DMG_30	LITERAL1
+DMG_35	LITERAL1
+DMG_40	LITERAL1
+DMG_50	LITERAL1
+DMG_75	LITERAL1
+DMG_100	LITERAL1
